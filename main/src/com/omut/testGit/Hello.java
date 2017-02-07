@@ -16,5 +16,9 @@ public class Hello {
         System.out.println("************************************");
         System.out.println("************************************");
         System.out.println("************************************");
+
+        for (int i = 0; i < 2; i++) {
+            System.out.println("qwerty");
+        }
     }
 }
