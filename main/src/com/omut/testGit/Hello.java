@@ -11,11 +11,11 @@ public class Hello {
         System.out.println("Hello everyone!!!");
         System.out.println("It's me!!!");
         System.out.println("************************************");
+        String s = "Text " + 15 + "\n";
+        System.out.println(s);
         System.out.println("************************************");
-        System.out.println("************************************");
-        System.out.println("************************************");
-        System.out.println("************************************");
-        System.out.println("************************************");
+        String ss = "www";
+        System.out.println(ss);
         System.out.println("************************************");
 
         for (int i = 0; i < 2; i++) {
