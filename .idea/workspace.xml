@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96167abf-ddfb-4216-aa3b-a3a6fed5f8d3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/src/com/omut/testGit/Hello.java" afterPath="$PROJECT_DIR$/main/src/com/omut/testGit/Hello.java" />
-    </list>
+    <list default="true" id="96167abf-ddfb-4216-aa3b-a3a6fed5f8d3" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
