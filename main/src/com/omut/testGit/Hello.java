@@ -13,12 +13,8 @@ public class Hello {
         String s = "Text " + 15 + "\n";
         System.out.println(s);
         System.out.println("************************************");
-        System.out.println("************************************");
-        System.out.println("************************************");
-        System.out.println("************************************");
-        System.out.println("************************************");
-        System.out.println("************************************");
         String ss = "www";
         System.out.println(ss);
+        System.out.println("************************************");
     }
 }
